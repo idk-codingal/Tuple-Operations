@@ -1,0 +1,7 @@
+tuplex = ("Moksh",True, 3, 1, 5)
+print(tuplex)
+tuple = ("Hello my name is Moksh" ,False, 1,1,1,1,2,32,3,12,124,12,)
+tuple = tuple + (9,)
+print(tuple)
+tupl = ("Bomboclat", "Goku", 9, 6, 4, 3, 9)
+print(tupl.count(9))
